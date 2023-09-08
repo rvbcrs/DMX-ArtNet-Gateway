@@ -444,7 +444,7 @@
       },
       {
         "netclass": "Default",
-        "pattern": "3.3v"
+        "pattern": "+3.3v"
       },
       {
         "netclass": "Default",
@@ -453,6 +453,66 @@
       {
         "netclass": "Default",
         "pattern": "Not Connected"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "IO27"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "IO2"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "IO12"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "IO21"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "IO32"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "IO17"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "IO15"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "IO22"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "IO27"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "RX"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "TX"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "IO33"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "IO37"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "IO38"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "IO13"
       }
     ]
   },

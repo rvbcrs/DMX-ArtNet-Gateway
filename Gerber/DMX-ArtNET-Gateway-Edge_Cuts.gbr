@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*%
+%TF.CreationDate,2023-09-08T15:18:43+02:00*%
+%TF.ProjectId,DMX-ArtNET-Gateway,444d582d-4172-4744-9e45-542d47617465,v01*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2023-09-08 15:18:43*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X114300000Y-81280000D02*
+X205740000Y-81280000D01*
+X205740000Y-137160000D01*
+X114300000Y-137160000D01*
+X114300000Y-81280000D01*
+M02*
